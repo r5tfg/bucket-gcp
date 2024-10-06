@@ -1,0 +1,4 @@
+*.tfvars
+*.tfvars.json
+**/.terraform/*
+testeo-436514-d311e03b1e14.json
